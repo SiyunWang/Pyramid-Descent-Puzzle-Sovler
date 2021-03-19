@@ -22,4 +22,3 @@ const puzzleSolver = function(target, puzzle) {
   }
   return 'no valid path';
 }
-
