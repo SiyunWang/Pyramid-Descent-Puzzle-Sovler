@@ -1,13 +1,14 @@
 # Pyramid Descent Puzzle Sovler
 
-## Requirements
-- #### Node
+### Requirements
 
-## Installing Dependencies
+- #### node
+
+### Installing Dependencies
 
   $ npm install
 
-## Running the project
+### Running the project
 
   $ npm start
     
