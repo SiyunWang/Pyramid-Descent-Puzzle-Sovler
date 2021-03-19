@@ -22,3 +22,19 @@ const puzzleSolver = function(target, puzzle) {
   }
   return 'no valid path';
 }
+
+
+// tests
+const puzzle1 = [[2],[4,3],[3,2,6],[2,9,5,2],[10,5,2,15,5]];
+const target1 = 720;
+
+const target2 = 2;
+const puzzle2 = [[1],[2,3],[4,1,1]];
+
+const target3 = 7;
+const puzzle3 = [[1],[2,3],[4,1,1]];
+
+
+console.log("first puzzle solution: ", puzzleSolver(target1, puzzle1));
+console.log("second puzzle solution: ", puzzleSolver(target2, puzzle2));
+console.log("when there is no solution:", puzzleSolver(target3, puzzle3));
