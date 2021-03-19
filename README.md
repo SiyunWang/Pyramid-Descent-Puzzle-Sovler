@@ -18,11 +18,11 @@ If the installation was successful, you should be able to run the following comm
 
 Run the following command:
 
-  $ npm install
+    $ npm install
 
 ### Running the project
 
 Run the following command:
 
-  $ npm start
+    $ npm start
     
